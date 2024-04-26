@@ -92,6 +92,6 @@ Project Link: [https://github.com/ceerenity/batchUpdate](https://github.com/ceer
 [issues-shield]: https://img.shields.io/github/issues/ceerenity/batchUpdate.svg?style=for-the-badge
 [issues-url]: https://github.com/ceerenity/batchUpdate/issues
 [license-shield]: https://img.shields.io/github/license/ceerenity/batchUpdate.svg?style=for-the-badge
-[license-url]: https://github.com/ceerenity/batchUpdate/blob/main/LICENSE
+[license-url]: https://github.com/ceerenity/batchUpdate/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/celine-lei-garcia-151111273/
